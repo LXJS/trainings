@@ -1,0 +1,4 @@
+trainings
+=========
+
+Training Descriptions repo
