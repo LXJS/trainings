@@ -67,11 +67,11 @@ The process will be very simple
 
 ### largeScale with Hapijs
 
-Ben Acker
-Eran Hammer
-Nathan LaFreniere
-Van Nguyen
-Wyatt Preul
+* Ben Acker
+* Eran Hammer
+* Nathan LaFreniere
+* Van Nguyen
+* Wyatt Preul
 
 ### peer to peer in browser with WebRTC
 
