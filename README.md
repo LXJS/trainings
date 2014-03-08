@@ -26,7 +26,7 @@ We are really super excited to make this happen, thank you for taking part on it
 
 For this 'ritual of knowledge transfer' to happen sucessfully, we've to assure that the participants are engadged as much as we can and that their level of compression for the training topic is a bit above the basic level, so we can take advantage of the in person time to actually make it worth it.
 
-We are super thankful for all the hard work you are putting throught, in order to create something unique and that people will trully value, hoping that this will empower new leaders scatered accross other communities.
+We are super thankful for all the hard work you are putting through, in order to create something unique and that people will trully value, hoping that this will empower new leaders scatered accross other communities.
 
 
 ## Pre-training 
