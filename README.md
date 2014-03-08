@@ -5,7 +5,7 @@ LXJS has a surprise, real trainings about some of the most hot frameworks and li
 
 # Motivation - Why the heck do we want this to happen?
 
-We've been running LXJS for two years now(![2012](http://2012.lxjs.org/);![2013](http://2013.lxjs.org/), so many things have happened so far, so many new friendships, projects, ideas that bootstraped during the conference, I can't help myself looking back and not feeling nostalgic :) 
+We've been running LXJS for two years now([2012](http://2012.lxjs.org/);[2013](http://2013.lxjs.org/), so many things have happened so far, so many new friendships, projects, ideas that bootstraped during the conference, I can't help myself looking back and not feeling nostalgic :) 
 
 Our core goals remained the same as the day 1, if you are new to it, you might find our motivations a bit diffrent from what you would might expect. LXJS is a community conference, meaning there is no company running it, we don't take sponsored talks, we don't have fancy speaker or sponsor dinners, there is no questions after the talks and we strive to break even in the end of the day, making it a non-profit conf.
 
