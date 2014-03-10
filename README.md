@@ -7,11 +7,9 @@ LXJS has a surprise, real trainings about some of the most hot frameworks and li
 
 We've been running LXJS for two years now([2012](http://2012.lxjs.org/);[2013](http://2013.lxjs.org/), so many things have happened so far, so many new friendships, projects, ideas that bootstraped during the conference, I can't help myself looking back and not feeling nostalgic :) 
 
-Our core goals remained the same as the day 1, if you are new to it, you might find our motivations a bit diffrent from what you would might expect. LXJS is a community conference, meaning there is no company running it, we don't take sponsored talks, we don't have fancy speaker or sponsor dinners, there is no questions after the talks and we strive to break even in the end of the day, making it a non-profit conf.
+Our core goals remained the same as the day 1. LXJS is a community conference, meaning there is no company running it, we don't take sponsored talks, we don't do fancy speaker or sponsor dinners, there is no questions after the talks and we strive to break even in the end of the day, making it a non-profit conf.
 
-Quoting Nuno Job, one of the visionaries(the other being Pedro Teixeira) behind the first edition and that brought it all together, LXJS is:
-
-> LXJS is about the speakers and the attendees. For us, they are one and the same. Fellow geeks with amazing ideas, passion, and drive. We are inspired by each and every one of you and want to empower you to work together. Our measure of success is how many of you feel happier as a consequence of LXJS: companies get started, people get amazing jobs, open source projects created; heck, even international events like NodeCopter. It’s a place for you to learn, socialize, and grow.
+Nuno Job, one of the visionaries(the other being Pedro Teixeira) behind the first edition and that brought it all together, has a really awesome blog post explaining our Mantra, I reccommend you to check it out, [here](https://medium.com/what-i-learned-building/9739289011b4).
 
 **So, the question was, why do we want to have trainings this year as part of LXJS**. After organizing it for 2 years, attending conferences like RealtimeConf, NodeConf and other tech events, we came to realize that in order to fulfil our goal to empowering the community to become leaders, we need to expand LXJS effect to a more continuous and sustainable format. What has been happening, is that we are able to generate, with the help of the awesome JS community, a huge spike of interest, enthusiasm and activity during LXJS (a bit as the following image shows):
 
@@ -39,7 +37,7 @@ Before the conference happen, the participants of the training will have to have
 
 ## During-training 
 
-Trainings will consist in 3 hours straight, each training will be formed by a class of 30~35 people in a round table set up with the training having access to a projector and a mic.
+Trainings will consist in 2:30h hours straight, each training will be formed by a class of 30~35 people in a round table set up with the training having access to a projector and a mic.
 
 ## Break-out sessions
 
