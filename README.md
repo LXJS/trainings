@@ -58,7 +58,6 @@ The process will be very simple
 4. Before LXJS, the repos will be set to open source, as we want other people that might take advantage from it, to do it
 5. After LXJS, the same repo will be use for the take homes, where attendees will be able to put questions and get replied throught there (centralized channel of communication for each training)
 
-
 # Schedule/Trainings
 
 ## Trainings list and respective trainers
