@@ -68,18 +68,34 @@ The process will be very simple
 
 ## Trainings list and respective trainers
 
-### largeScale with Hapijs
+### large scale with Hapijs
 
 * Ben Acker
-* Eran Hammer
-* Nathan LaFreniere
 * Van Nguyen
 * Wyatt Preul
 
 ### peer to peer in browser with WebRTC
 
+* Feross Aboukhadijeh
 
+### next generation web frameworks, Koa
 
+* Jonathan Ong
+
+### DTRACE
+
+* TJ Fontaine
+* Max Bruning (confirming)
+
+### Desktop apps with Node-Webkit
+
+* Roger Wang
+
+### ********* (Waiting Confirmation)
+
+### ********* (Waiting Confirmation)
+
+### ********* (Waiting Confirmation)
 
 
 ## 27 Jun
@@ -87,3 +103,18 @@ Hours TBA
 
 ## 28 Jun
 Hours TBA
+
+# Trainer Resources 
+
+Here you will find an example of what a training repo should look like (or at least what we envisioned, if you have a better way to organize your things for your training, you are welcome to do it) and the respective repos for each training that will be shared with the participants.
+
+If you have any question, please open a [issue on this repo](https://github.com/LXJS/trainings/issues?state=open) and we will be glad to respond :)
+
+## Example training repo
+
+[example-training-repo](https://github.com/LXJS/example-training-repo.lxjs.org)
+
+## Training repos Repos
+
+To be created
+
