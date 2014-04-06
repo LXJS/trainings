@@ -119,5 +119,10 @@ If you have any question, please open a [issue on this repo](https://github.com/
 
 ## Training repos Repos
 
-To be created
+* https://github.com/LXJS/training-level
+* https://github.com/LXJS/training-node-webkit
+* https://github.com/LXJS/training-dtrace
+* https://github.com/LXJS/training-webrtc
+* https://github.com/LXJS/training-koa
+* https://github.com/LXJS/training-hapijs
 
