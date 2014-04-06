@@ -115,7 +115,7 @@ If you have any question, please open a [issue on this repo](https://github.com/
 
 ## Example training repo
 
-[example-training-repo](https://github.com/LXJS/example-training-repo.lxjs.org)
+[example-training-repo](https://github.com/LXJS/example-training-repo)
 
 ## Training repos Repos
 
