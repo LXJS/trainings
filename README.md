@@ -91,7 +91,10 @@ The process will be very simple
 
 * Roger Wang
 
-### ********* (Waiting Confirmation)
+### mad Science with level
+
+* Julian juliangruber@me.com
+* Dominic Tar dominic.tarr@gmail.com
 
 ### ********* (Waiting Confirmation)
 
