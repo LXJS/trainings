@@ -129,5 +129,5 @@ If you have any question, please open a [issue on this repo](https://github.com/
 * https://github.com/LXJS/training-webrtc
 * https://github.com/LXJS/training-koa
 * https://github.com/LXJS/training-hapijs
-* * https://github.com/LXJS/training-nodebots
+* https://github.com/LXJS/training-nodebots
 
