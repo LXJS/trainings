@@ -96,7 +96,11 @@ The process will be very simple
 * Julian juliangruber@me.com
 * Dominic Tar dominic.tarr@gmail.com
 
-### ********* (Waiting Confirmation)
+### Destructo NodeBots
+
+* Oli Evans
+* Alan Shaw
+* Alex Potsides
 
 ### ********* (Waiting Confirmation)
 
@@ -125,4 +129,5 @@ If you have any question, please open a [issue on this repo](https://github.com/
 * https://github.com/LXJS/training-webrtc
 * https://github.com/LXJS/training-koa
 * https://github.com/LXJS/training-hapijs
+* * https://github.com/LXJS/training-nodebots
 
