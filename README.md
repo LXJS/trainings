@@ -102,7 +102,10 @@ The process will be very simple
 * Alan Shaw
 * Alex Potsides
 
-### ********* (Waiting Confirmation)
+### Internet of Javascript Things 
+
+* Tim Park
+* Nuno Job
 
 
 ## 27 Jun
@@ -130,4 +133,5 @@ If you have any question, please open a [issue on this repo](https://github.com/
 * https://github.com/LXJS/training-koa
 * https://github.com/LXJS/training-hapijs
 * https://github.com/LXJS/training-nodebots
+* https://github.com/LXJS/training-iot
 
