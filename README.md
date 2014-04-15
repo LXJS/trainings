@@ -85,7 +85,7 @@ The process will be very simple
 ### DTRACE
 
 * TJ Fontaine
-* Max Bruning (confirming)
+* Max Bruning
 
 ### Desktop apps with Node-Webkit
 
