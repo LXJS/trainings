@@ -110,7 +110,7 @@ The process will be very simple
 
 ## SCHEDULE
 
-![](https://cloudup.com/cMM0qUTQBBp)
+![](https://i.cloudup.com/x8S8yBl-2k-3000x3000.png)
 
 
 # Trainer Resources 
