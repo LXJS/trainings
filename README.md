@@ -108,11 +108,10 @@ The process will be very simple
 * Nuno Job
 
 
-## 27 Jun
-Hours TBA
+## SCHEDULE
 
-## 28 Jun
-Hours TBA
+![](https://cloudup.com/cMM0qUTQBBp)
+
 
 # Trainer Resources 
 
